@@ -1,6 +1,8 @@
+#IAAP 23 course: Evaluating the Effectiveness of Evolutionary Algorithms for Climate Change Decision-Support 
+#This will be the base model for our project.
+
+
 # The PyRICE Model
-
-
 ## Authored by Max Reddel
 
 This is a simulation model implementation of the RICE2010 model by Nordhaus. It is modified in a way, such that alternative ethical problem formulations and the level of aggregation can be selected. The aggregation levels refer whether to disaggregate utility and disutility.

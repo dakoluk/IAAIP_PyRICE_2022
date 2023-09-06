@@ -1,5 +1,5 @@
-#IAAP 23 course: Evaluating the Effectiveness of Evolutionary Algorithms for Climate Change Decision-Support 
-#This will be the base model for our project.
+# IAAP 23 course: Evaluating the Effectiveness of Evolutionary Algorithms for Climate Change Decision-Support
+# This will be the base model for our project.
 
 
 # The PyRICE Model
